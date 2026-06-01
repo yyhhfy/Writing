@@ -4,7 +4,7 @@
 
 ## 界面：
 
-（1）支持设置模式和创作模式
+（1）支持设置模式和创作模式（也可切换黑白夜主题色）
 <img width="1054" height="849" alt="image" src="https://github.com/user-attachments/assets/87fbf7ea-bf10-4967-8c2d-3c8c6adeaa84" />
 
 
