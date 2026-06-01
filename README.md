@@ -5,18 +5,18 @@
 ## 界面：
 
 （1）支持设置模式和创作模式
-<img width="963" height="878" alt="image" src="https://github.com/user-attachments/assets/04e7b001-13f3-445d-b4e5-ad10b15c8100" />
+<img width="1054" height="849" alt="image" src="https://github.com/user-attachments/assets/87fbf7ea-bf10-4967-8c2d-3c8c6adeaa84" />
+
 
 
 
 （2）支持个性化设置和快捷键设置
-<img width="1090" height="919" alt="image" src="https://github.com/user-attachments/assets/906d3f6a-d322-4485-911c-9e8a17a2a8a4" />
+<img width="1069" height="863" alt="image" src="https://github.com/user-attachments/assets/e59f268a-2f8b-4d54-93f8-e00348875af5" />
 
-<img width="1090" height="919" alt="image" src="https://github.com/user-attachments/assets/a052fe3b-b5a0-429f-882e-a51f945f45d8" />
-
+<img width="1069" height="863" alt="image" src="https://github.com/user-attachments/assets/5468ebac-eca7-4584-ba01-a02ef992eb4b" />
 
 
 （3）支持字数统计和状态栏隐藏
-<img width="1069" height="863" alt="image" src="https://github.com/user-attachments/assets/59ba1ec4-7e0d-407f-ab08-ea90cc29cc7d" />
+<img width="1069" height="863" alt="image" src="https://github.com/user-attachments/assets/ef88c3b6-ba57-4050-86d7-4f64baf88434" />
 
-<img width="1082" height="866" alt="image" src="https://github.com/user-attachments/assets/b118a1fe-224f-40a4-831d-688cf8681ab5" />
+<img width="1060" height="810" alt="image" src="https://github.com/user-attachments/assets/077e9e51-7c23-4919-a63d-bfdafc81460e" />
