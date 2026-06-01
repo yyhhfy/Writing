@@ -1,0 +1,22 @@
+{
+  "opacity": 0.91,
+  "font_size": 12,
+  "theme": "dark",
+  "window_width": 550,
+  "window_height": 550,
+  "status_bar_hidden": true,
+  "background_resident": true,
+  "shortcuts": {
+    "close": "Ctrl+Q",
+    "toggle_visibility": "Ctrl+H",
+    "save": "Ctrl+S",
+    "export": "Ctrl+E",
+    "switch_mode": "Ctrl+M",
+    "opacity_up": "Ctrl+Up",
+    "opacity_down": "Ctrl+Down",
+    "font_up": "Ctrl+=",
+    "font_down": "Ctrl+-",
+    "theme": "Ctrl+T",
+    "toggle_status_bar": "Ctrl+B"
+  }
+}
