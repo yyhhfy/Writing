@@ -1,2 +1,2 @@
 # Writing
-直接写在Writing.exe就可以使用了。
+直接下载Writing.exe到本地就可以使用了。
